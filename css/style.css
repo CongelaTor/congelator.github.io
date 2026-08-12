@@ -288,7 +288,7 @@ img {
 .section {
   max-width: var(--max-width);
   margin: 0 auto;
-  padding: 58px 24px;
+  padding: 20px 24px 58px;
 }
 
 .section-header {
