@@ -15,7 +15,7 @@ const applications = [
     id: "flowfy",
     name: "Flowfy",
     slogan: "Trouvez votre flow",
-    shortDescription: "Organisez vos activités en blocs, avancez plus efficacement et trouvez votre propre rythme.",
+    shortDescription: "Organisez vos activités, progressez plus efficacement et trouvez votre propre rythme.",
     status: "Bientôt sur Google Play",
     page: "flowfy.html",
     icon: "img/flowfy/Flowfy_512x512.png",
