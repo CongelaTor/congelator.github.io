@@ -451,7 +451,7 @@ img {
 
 .page-hero {
   background: linear-gradient(135deg, #ffffff 0%, #eef6f3 100%);
-  padding: 66px 24px;
+  padding: 50px 24px 25px;
 }
 
 .page-hero-inner {
