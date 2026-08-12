@@ -135,6 +135,13 @@ img {
   cursor: pointer;
 }
 
+.app-banner {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  border-radius: 28px;
+}
+
 .hero {
   background:
     radial-gradient(circle at 72% 25%, rgba(21, 148, 71, 0.14), transparent 32%),
