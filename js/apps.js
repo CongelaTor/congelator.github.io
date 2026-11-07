@@ -1,7 +1,7 @@
 const applications = [
   {
     id: "alto-gaspi",
-    name: "Alt'o Gaspi",
+    name: "Alto Gaspi",
     slogan: "Gaspi or not Gaspi",
     shortDescription:
       "Gérez vos produits alimentaires, suivez les dates importantes et réduisez le gaspillage alimentaire.",
