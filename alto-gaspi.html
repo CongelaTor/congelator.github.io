@@ -61,10 +61,20 @@
       <p>Alto Gaspi a été conçue pour être légère, rapide et répondre à un seul objectif : réduire concrètement le
         gaspillage alimentaire à la maison.</p>
 
-      <p>Prenez le contrôle de vos stocks, faites des économies et participez à une consommation plus durable.</p>
-
-      <p>Téléchargez Alto Gaspi et donnez une seconde chance à vos aliments !</p>
-    </div>
+         <p>Prenez le contrôle de vos stocks, faites des économies et participez à une consommation plus durable.</p>
+      <div class="screenshots-section">
+        <h2>Alto Gaspi en images</h2>
+        <div class="screenshots-carousel">
+          <button class="carousel-button carousel-previous" type="button" aria-label="Capture précédente">‹</button>
+          <div class="screenshots-track" id="screenshotsTrack"></div>
+          <button class="carousel-button carousel-next" type="button" aria-label="Capture suivante">›</button>
+        </div>
+        <div class="carousel-dots" id="carouselDots"></div>
+        <div class="screenshots-download">
+          <p>Téléchargez Alto Gaspi et donnez une seconde chance à vos aliments !</p>
+          <a href="https://play.google.com/store/apps/details?id=com.teamcongelator.alto_gaspi" class="app-button app-button-playstore">Installer</a>
+        </div>
+      </div>    </div>
   </section>
 
   <footer class="site-footer">
@@ -75,6 +85,8 @@
 
   <script src="js/apps.js"></script>
   <script src="js/main.js"></script>
+  <script src="js/carrousel.js"></script>
+  <script>initCarrousel("img/alto_gaspi/screenshots", "Alto Gaspi");</script>
 </body>
 
 </html>
