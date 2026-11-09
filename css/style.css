@@ -481,6 +481,17 @@ img {
   color: var(--muted);
 }
 
+.back-applications,
+.back-applications:visited {
+  display: inline-block;
+  margin-bottom: 18px;
+  color: var(--text);
+  text-decoration: underline;
+}
+.back-applications:hover {
+  color: var(--green);
+}
+
 .page-hero {
   background: linear-gradient(135deg, #ffffff 0%, #eef6f3 100%);
   padding: 50px 24px 25px;
