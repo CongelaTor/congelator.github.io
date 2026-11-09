@@ -826,8 +826,9 @@ img {
 
   .app-card-footer {
     padding: 15px 22px;
-    flex-direction: column;
-    align-items: flex-start;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-between;
   }
 
   .content-card {
